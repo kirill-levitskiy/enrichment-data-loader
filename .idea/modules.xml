@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/enrichment-data-loader.iml" filepath="$PROJECT_DIR$/.idea/enrichment-data-loader.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/gluestick-master/gluestick-elements/.idea/gluestick-elements.iml" filepath="$USER_HOME$/Downloads/gluestick-master/gluestick-elements/.idea/gluestick-elements.iml" />
     </modules>
   </component>
 </project>
